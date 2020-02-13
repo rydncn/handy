@@ -18,7 +18,6 @@ Handy links for design and development
 * https://developers.google.com/speed/pagespeed/insights/?hl=en-US&utm_source=PSI&utm_medium=incoming-link&utm_campaign=PSI
 * https://www.webpagetest.org/
 * https://search.google.com/structured-data/testing-tool/u/0/
-* https://realfavicongenerator.net/
 * https://search.google.com/test/rich-results?utm_campaign=devsite&utm_medium=microdata&utm_source=faq-page
 
 ## Converters and generators
@@ -40,10 +39,19 @@ Handy links for design and development
 ## Front-end
 * https://cssfx.netlify.com/
 * https://github.com/Angelmmiguel/material_icons/blob/master/app/assets/stylesheets/material_icons_unicode.css.erb#L85-L3265
+* https://basicscroll.electerious.com/
+* https://github.com/dimsemenov/PhotoSwipe
+* https://github.com/metafizzy/flickity
+* https://animista.net/
 
 ## Back-end
 * https://regex101.com/
 * https://gist.github.com/ghalusa/6c7f3a00fd2383e5ef33
+
+## Misc
+* https://htaccess.madewithlove.be/
+* https://www.mail-tester.com/
+* https://realfavicongenerator.net/
 
 ## SilverStripe
 * https://www.kristianjungk.com/en/about/tipps-tricks/silverstripe/
