@@ -4,6 +4,7 @@ Handy links for design and development
 ## a11y
 * https://stephaniewalter.design/blog/color-accessibility-tools-resources-to-design-inclusive-products/
 * https://webaim.org/resources/contrastchecker/
+* https://stackoverflow.com/questions/32265420/visually-remove-h1-element-whilst-preserving-screen-reader-accessibility-and-a
 
 ## Stock imagery, video, music and mock-ups
 * https://unsplash.com/
@@ -43,6 +44,9 @@ Handy links for design and development
 * https://github.com/dimsemenov/PhotoSwipe
 * https://github.com/metafizzy/flickity
 * https://animista.net/
+* https://frontendwiz.co.uk/
+* https://svgontheweb.com/
+* https://greensock.com/
 
 ## Back-end
 * https://regex101.com/
