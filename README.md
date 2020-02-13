@@ -33,11 +33,12 @@ Handy links for design and development
 
 ## Design
 * https://beta.nhs.uk/service-manual/content-style-guide
+* https://www.gov.uk/guidance/content-design/writing-for-gov-uk
 * https://www.colorbook.io/hexcolors/
 * https://scotentsd.github.io/
 
 ## Front-end
-* https://cssfx.dev/
+* https://cssfx.netlify.com/
 * https://github.com/Angelmmiguel/material_icons/blob/master/app/assets/stylesheets/material_icons_unicode.css.erb#L85-L3265
 
 ## Back-end
