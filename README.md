@@ -48,6 +48,12 @@ Handy links for design and development
 ## SilverStripe
 * https://www.kristianjungk.com/en/about/tipps-tricks/silverstripe/
 * https://al.twohill.nz/2018/Quick-Tip-SilverStripe-Icons/
+* https://github.com/bummzack/sortablefile
+* https://github.com/UndefinedOffset/SortableGridField
+* https://github.com/UndefinedOffset/silverstripe-nocaptcha
+* https://github.com/silverstripe/silverstripe-spamprotection
+* https://github.com/silverstripe/silverstripe-userforms
+* https://github.com/dnadesign/silverstripe-elemental
 
 ## Craft
 * https://www.webstoemp.com/blog/combined-searches-and-filters-craft-cms/
