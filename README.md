@@ -47,6 +47,7 @@ Handy links for design and development
 * https://frontendwiz.co.uk/
 * https://svgontheweb.com/
 * https://greensock.com/
+* https://htmldom.dev/
 
 ## Back-end
 * https://regex101.com/
